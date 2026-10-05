@@ -1,5 +1,10 @@
 # papermc-display-tags
 
+> **Archived.** papermc-display-tags lives on in
+> [nordtal/season-2](https://github.com/nordtal/season-2) as the module `display-tags`, which the
+> `smp` plugin carries; it has no plugin or release of its own any more. This repository takes no
+> more changes.
+
 <a href="api/README.md" target="_blank">
   <img alt="generic" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/generic_vector.svg">
 </a>
